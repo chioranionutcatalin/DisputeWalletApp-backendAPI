@@ -1,0 +1,118 @@
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\ApplicationInsights.config
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\testAPI.dll.config
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\testAPI.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\testAPI.pdb
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Antlr3.Runtime.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\EntityFramework.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Newtonsoft.Json.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Helpers.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Http.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Mvc.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Optimization.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Razor.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.WebPages.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\WebGrease.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\EntityFramework.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Newtonsoft.Json.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Helpers.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Http.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Mvc.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Optimization.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Razor.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.WebPages.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.csprojResolveAssemblyReference.cache
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.csproj.CoreCompileInputs.cache
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.pdb
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.Migrations.initial.resources
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.csproj.GenerateResource.Cache
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.Migrations.added_birthday_prop.resources
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.Migrations.Salam.resources
+C:\Users\ROGPC\source\repos\testAPI\testAPI\obj\Debug\testAPI.Migrations.parizer.resources
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Cors.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Http.Cors.dll
+C:\Users\ROGPC\source\repos\testAPI\testAPI\bin\System.Web.Http.Cors.xml
+D:\old stuff\testAPI\testAPI\bin\ApplicationInsights.config
+D:\old stuff\testAPI\testAPI\bin\testAPI.dll.config
+D:\old stuff\testAPI\testAPI\bin\testAPI.dll
+D:\old stuff\testAPI\testAPI\bin\testAPI.pdb
+D:\old stuff\testAPI\testAPI\bin\Antlr3.Runtime.dll
+D:\old stuff\testAPI\testAPI\bin\EntityFramework.dll
+D:\old stuff\testAPI\testAPI\bin\EntityFramework.SqlServer.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.Web.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.ApplicationInsights.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\old stuff\testAPI\testAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\old stuff\testAPI\testAPI\bin\Newtonsoft.Json.dll
+D:\old stuff\testAPI\testAPI\bin\System.Net.Http.Formatting.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Cors.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Helpers.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Http.Cors.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Http.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Http.WebHost.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Mvc.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Optimization.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.Razor.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.WebPages.Deployment.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.WebPages.dll
+D:\old stuff\testAPI\testAPI\bin\System.Web.WebPages.Razor.dll
+D:\old stuff\testAPI\testAPI\bin\WebGrease.dll
+D:\old stuff\testAPI\testAPI\bin\EntityFramework.xml
+D:\old stuff\testAPI\testAPI\bin\EntityFramework.SqlServer.xml
+D:\old stuff\testAPI\testAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Http.Cors.xml
+D:\old stuff\testAPI\testAPI\bin\Newtonsoft.Json.xml
+D:\old stuff\testAPI\testAPI\bin\System.Net.Http.Formatting.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Helpers.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Http.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Http.WebHost.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Mvc.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Optimization.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.Razor.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.WebPages.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.WebPages.Deployment.xml
+D:\old stuff\testAPI\testAPI\bin\System.Web.WebPages.Razor.xml
+D:\old stuff\testAPI\testAPI\bin\Antlr3.Runtime.pdb
+D:\old stuff\testAPI\testAPI\bin\Microsoft.ApplicationInsights.xml
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\old stuff\testAPI\testAPI\bin\Microsoft.AI.Web.xml
+D:\old stuff\testAPI\testAPI\obj\Debug\testAPI.csprojResolveAssemblyReference.cache
+D:\old stuff\testAPI\testAPI\obj\Debug\testAPI.csproj.CoreCompileInputs.cache
+D:\old stuff\testAPI\testAPI\obj\Debug\testAPI.dll
+D:\old stuff\testAPI\testAPI\obj\Debug\testAPI.pdb
+D:\old stuff\testAPI\testAPI\obj\Debug\testAPI.Migrations.Initial.resources
+D:\old stuff\testAPI\testAPI\obj\Debug\testAPI.csproj.GenerateResource.Cache
+D:\old stuff\testAPI\testAPI\bin\Stripe.net.dll
